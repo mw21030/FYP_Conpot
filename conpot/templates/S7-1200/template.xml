@@ -38,8 +38,8 @@
       		    <value type="value">"6ES7214-1AG40-0XB0"</value>
 	        </key>
             <key name="firmware">
-                <value type="value">"4.5.1"
-            </value>
+                <value type="value">"4.5.1"</value>
+            </key>
             <key name="sysLocation">
                 <value type="value">"Level 5, Rack 5"</value>
             </key>

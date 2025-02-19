@@ -29,13 +29,13 @@
                 <value type="value">"Siemens AG"</value>
             </key>
             <key name="sysName">
-                <value type="value">"6ES7214-1AG40-0XB0"</value>
+                <value type="value">"6ES7 214-1AG40-0XB0"</value>
             </key>
             <key name="module">
-      		    <value type="value">"6ES7214-1AG40-0XB0"</value>
+      		    <value type="value">"6ES7 214-1AG40-0XB0"</value>
 	        </key>
             <key name="hardware">
-      		    <value type="value">"6ES7214-1AG40-0XB0"</value>
+      		    <value type="value">"6ES7 214-1AG40-0XB0"</value>
 	        </key>
             <key name="firmware">
                 <value type="value">"4.5.1"</value>

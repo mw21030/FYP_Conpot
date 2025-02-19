@@ -8,7 +8,11 @@
             <serial id="W#16#0005">s7_id</serial>
             <module_type_name id="W#16#0007">s7_module_type</module_type_name>
             <oem_id id="W#16#000A">empty</oem_id>
-            <location id="W#16#000B">empty</location>
+            <location id="W#16#000B">empty</location>    
+            <BasicHardware>6ES7 315-2AG10-0AB0</BasicHardware>
+            <SystemName>SIMATIC S7-300</SystemName>
+            <ModuleType>CPU 315-2 DP</ModuleType>
+            <SerialNumber>6EP1123-1AJ00-0AA2</SerialNumber>
         </ssl>
         <ssl id="W#16#xy11" name="Module Identification">
             <!-- Not really sure what these are supposed to contain -->
@@ -17,9 +21,6 @@
             <firmware_identification id="W#16#0006">firmware</firmware_identification>
         </ssl>
     </system_status_lists>
-    <BasicHardware>6ES7 315-2AG10-0AB0</BasicHardware>
-    <SystemName>SIMATIC S7-300</SystemName>
-    <ModuleType>CPU 315-2 DP</ModuleType>
-    <SerialNumber>6EP1123-1AJ00-0AA2</SerialNumber>
+
     <Version>2.6.9</Version>
 </s7comm>

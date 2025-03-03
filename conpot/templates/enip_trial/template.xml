@@ -21,7 +21,7 @@
                 <value type="function">conpot.emulators.misc.uptime.Uptime</value>
             </key>
             <key name="sysObjectID">
-                <value type="value">"
+                <value type="value">"1"</value>
             </key>
         </key_value_mappings>
     </databus>

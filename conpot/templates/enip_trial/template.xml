@@ -23,6 +23,7 @@
             <key name="sysObjectID">
                 <value type="value">"
             </key>
+        </key_value_mappings>
     </databus>
 </core>
 

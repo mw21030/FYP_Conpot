@@ -1,0 +1,24 @@
+<enip enabled="True" host="0.0.0.0" port="44818">
+    <device>
+        <vendor>Rockwell Automation</vendor>
+        <product_name>ControlLogix 1756-L83E</product_name>
+        <product_code>1756</product_code>
+        <revision>v32.012</revision>
+        <serial_number>0xABC12345</serial_number>
+        <device_type>0x0C</device_type>
+        <status>0x00</status>
+        <protocol_version>2</protocol_version>
+    </device>
+    <objects>
+        <object name="Identity Object">
+            <attribute id="1" name="Vendor ID" value="1"/>
+            <attribute id="2" name="Device Type" value="12"/>
+            <attribute id="3" name="Product Code" value="1756"/>
+            <attribute id="4" name="Revision" value="32.012"/>
+        </object>
+        <object name="Assembly Object">
+            <attribute id="1" name="Input Assembly" value="[10, 20, 30, 40]"/>
+            <attribute id="2" name="Output Assembly" value="[0, 0, 1, 1]"/>
+        </object>
+    </objects>
+</enip>

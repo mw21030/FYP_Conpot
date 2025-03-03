@@ -1,0 +1,10 @@
+<entity name="allen_bradley_controllogix">
+    <description>Allen-Bradley ControlLogix PLC</description>
+    <vendor>Rockwell Automation</vendor>
+    <unit>ControlLogix 1756</unit>
+    <protocols>ENIP</protocols>
+    <configuration>
+        <ip>192.168.1.50</ip>
+        <mac>00:0E:C6:AB:12:34</mac>
+    </configuration>
+</entity>

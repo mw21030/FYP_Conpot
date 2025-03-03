@@ -6,24 +6,5 @@
         <entity name="protocols">ENIP</entity>
         <entity name="creator">the conpot team</entity>
     </template>
-    <databus>
-        <key_value_mappings>
-            <key name="FacilityName">
-                <value type="value">"Conpot"</value>
-            </key>
-            <key name="SystemName">
-                <value type="value">"ControlLogix 1756-L83E"</value>
-            </key>
-            <key name="SystemDescription">
-                <value type="value">"Allen-Bradley ControlLogix PLC"</value>
-            </key>
-            <key name="Uptime">
-                <value type="function">conpot.emulators.misc.uptime.Uptime</value>
-            </key>
-            <key name="sysObjectID">
-                <value type="value">"1"</value>
-            </key>
-        </key_value_mappings>
-    </databus>
 </core>
 

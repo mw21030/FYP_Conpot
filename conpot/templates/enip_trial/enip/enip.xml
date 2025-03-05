@@ -17,19 +17,19 @@
             <type>BOOL</type>
             <size>1</size>
             <value>0</value>
-            <addr>22/0/1</addr>
+            <addr>22/1/1</addr>
         </tag>
         <tag name="SensorOutput">
             <type>INT</type>
             <size>1</size>
             <value>65.8</value>
-            <addr>22/0/2</addr>
+            <addr>22/1/2</addr>
         </tag>
         <tag name="MotorSpeedControl">
             <type>REAL</type>
             <size>4</size>
             <value>1500</value>
-            <addr>22/0/3</addr>
+            <addr>22/1/3</addr>
         </tag>
     </tags>
 </enip>

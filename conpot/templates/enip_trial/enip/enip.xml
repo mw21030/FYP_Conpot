@@ -5,7 +5,7 @@
         <DeviceType>14</DeviceType>
         <SerialNumber>3495049002</SerialNumber>
         <ProductRevision>5382</ProductRevision>
-        <ProductCode>21</ProductCode>
+        <ProductCode>30</ProductCode>
     </device_info>
 
     <mode>udp</mode> <!-- tcp or udp -->

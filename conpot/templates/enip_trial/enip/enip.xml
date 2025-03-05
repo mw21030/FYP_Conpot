@@ -22,7 +22,7 @@
         <tag name="SensorOutput">
             <type>INT</type>
             <size>1</size>
-            <value>65.8</value>
+            <value>67</value>
             <addr>22/1/2</addr>
         </tag>
         <tag name="MotorSpeedControl">

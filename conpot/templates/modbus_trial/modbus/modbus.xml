@@ -66,5 +66,5 @@
                     <content>memoryModbusSlave1BlockB</content>
                 </block>
             </blocks>
-    </slaves>
+        </slaves>
 </modbus>

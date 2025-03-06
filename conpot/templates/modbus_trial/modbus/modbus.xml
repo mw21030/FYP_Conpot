@@ -67,4 +67,5 @@
                 </block>
             </blocks>
         </slave>
+    </slaves>
 </modbus>
